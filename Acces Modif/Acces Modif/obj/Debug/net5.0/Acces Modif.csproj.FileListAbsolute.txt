@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\Acces Mod\Acces Modif\Acces Modif\bin\Debug\net5.0\Acces Modif.exe
+C:\Users\User\Desktop\Acces Mod\Acces Modif\Acces Modif\bin\Debug\net5.0\Acces Modif.deps.json
+C:\Users\User\Desktop\Acces Mod\Acces Modif\Acces Modif\bin\Debug\net5.0\Acces Modif.runtimeconfig.json
+C:\Users\User\Desktop\Acces Mod\Acces Modif\Acces Modif\bin\Debug\net5.0\Acces Modif.runtimeconfig.dev.json
+C:\Users\User\Desktop\Acces Mod\Acces Modif\Acces Modif\bin\Debug\net5.0\Acces Modif.dll
+C:\Users\User\Desktop\Acces Mod\Acces Modif\Acces Modif\bin\Debug\net5.0\Acces Modif.pdb
+C:\Users\User\Desktop\Acces Mod\Acces Modif\Acces Modif\obj\Debug\net5.0\Acces Modif.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Acces Mod\Acces Modif\Acces Modif\obj\Debug\net5.0\Acces Modif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Acces Mod\Acces Modif\Acces Modif\obj\Debug\net5.0\Acces Modif.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Acces Mod\Acces Modif\Acces Modif\obj\Debug\net5.0\Acces Modif.AssemblyInfo.cs
+C:\Users\User\Desktop\Acces Mod\Acces Modif\Acces Modif\obj\Debug\net5.0\Acces Modif.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Acces Mod\Acces Modif\Acces Modif\obj\Debug\net5.0\Acces Modif.dll
+C:\Users\User\Desktop\Acces Mod\Acces Modif\Acces Modif\obj\Debug\net5.0\refint\Acces Modif.dll
+C:\Users\User\Desktop\Acces Mod\Acces Modif\Acces Modif\obj\Debug\net5.0\Acces Modif.pdb
+C:\Users\User\Desktop\Acces Mod\Acces Modif\Acces Modif\obj\Debug\net5.0\Acces Modif.genruntimeconfig.cache
+C:\Users\User\Desktop\Acces Mod\Acces Modif\Acces Modif\obj\Debug\net5.0\ref\Acces Modif.dll
